@@ -11,8 +11,8 @@ const EMAIL_URL = 'mailto:weijunext@gmail.com'
 const GITHUB_URL = 'https://github.com/weijunext'
 
 export const siteConfig: SiteConfig = {
-  name: "Next Forge",
-  tagLine: 'Multilingual Next.js 15 Starter',
+  name: "Next GAMES",
+  tagLine: 'Discover fun and interesting games',
   description:
     "A multilingual Next.js 15 starter with built-in i18n support. Launch your global-ready web application with a clean, efficient, and SEO-friendly foundation.",
   url: BASE_URL,
